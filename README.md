@@ -1,7 +1,4 @@
-### Hi there I'm ScreamMaster1337👋
-
-### My main languages:
-<a target="_blank">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"" alt="javascript"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-
+### Dafi1337
+a target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
 
